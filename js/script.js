@@ -1,0 +1,1 @@
+// No functional JavaScript was present in the original file
